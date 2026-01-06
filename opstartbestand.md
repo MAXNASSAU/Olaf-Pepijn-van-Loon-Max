@@ -55,19 +55,19 @@ Je probeert onderstaande vragen te beantwoorden, lukt dat neit met de verkregen 
 
 Kies hieronder 3 casussen die je zou willen maken. Iedere casus kan maar door 1 groep worden uitgevoerd. Omschrijf dus duidelijk waarom je deze casus kiest.
 
-### Eerste keuze
-Korte beschrijving  
-marktplaats MTB oosterhout, online platform maken om makkelijk materiaal en kleding te zoeken
 
-Waarom vinden jullie dit interessant  
+## Eerste keuze
+Korte beschrijving  
+Marktplaats MTB Oosterhout, online platform maken om makkelijk materiaal en kleding te zoeken
+
+### Waarom vinden jullie dit interessant  
 het onderwerp van de opdracht leek ons een leuk idee en denken dat dit wat oplevert voor MTB oosterhout
 
-Voor wie is deze software bedoeld  
-leden van club in oosterhout
+### Voor wie is deze software bedoeld  
+Leden van de club MTB Oosterhout
 
-Welk probleem lossen jullie op of welke kans zien jullie  
-dat het doorgeven via whatsapp vrij onoverzichtelijk is en wij gaan dat verbeteren
-
+### Welk probleem lossen jullie op of welke kans zien jullie  
+Steeds meer leden van MTB Oosterhout verkopen hun oude kleding of materialen binnen de club. Dit gebeurd nu via whatsapp, wat leidt tot onoverzichtelijke invetarisatie van de aangeboden spullen waardoor mensen niet gericht kunnen zoeken naar het gewenste product. Wij willen de manier om kleding en materialen te verkopen makkelijker maken voor de leden van MTB Oosterhout door middel van een platform waar mensen hun kleding en materialen eenvoudig en gerangsschikt kunnen aanbieden.
 ---
 
 ### Tweede keuze
