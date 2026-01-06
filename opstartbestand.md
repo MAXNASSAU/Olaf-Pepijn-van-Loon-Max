@@ -95,6 +95,7 @@ Voor wie is deze software bedoeld
 Mensen die geïnteresseerd zijn in het lenen van spullen.
 Welk probleem lossen jullie op of welke kans zien jullie  
 Het probleem dat hier mee opgelost zou kunnen worden is het feit dat er tegenwoordig niet echt een manier is om spullen te lenen van anderen buiten de mensen die je erg goed kent. Je gaat niet zomaar naar iemand om even te vragen of je zijn/haar stofzuiger kan lenen voor 3 weken. Software ontwikkelingen om spullen te lenen zou dit probleem op kunnen lossen.
+
 ---
 
 ## 3. Vergelijken en kiezen
