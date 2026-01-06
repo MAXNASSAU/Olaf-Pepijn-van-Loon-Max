@@ -66,13 +66,13 @@ Voor wie is deze software bedoeld
 leden van club in oosterhout
 
 Welk probleem lossen jullie op of welke kans zien jullie  
-dat het 
+dat het doorgeven via whatsapp vrij onoverzichtelijk is en wij gaan dat verbeteren
 
 ---
 
 ### Tweede keuze
 Korte beschrijving  
-
+practicumsets arduino, makkelijk systeem maken
 
 Waarom vinden jullie dit interessant  
 
