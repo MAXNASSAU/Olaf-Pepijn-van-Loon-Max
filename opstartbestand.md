@@ -86,14 +86,16 @@ Het probleem dat de inhoud van de sets niet altijd klopt en niet goed kan zien w
 ---
 
 ### Derde keuze
-Korte beschrijving  
+# Korte beschrijving  
 Spulleen opdracht, mensen kunnen spullen voor een bepaalde tijd reserveren via een website.
 
-Waarom vinden jullie dit interessant  
+# Waarom vinden jullie dit interessant  
 Dit is ons derde keuze, omdat we dit nog steeds redelijk interessant zouden vinden om te proberen te ontwerpen, maar dit is wel echt ons laatste keuze.
-Voor wie is deze software bedoeld  
+
+# Voor wie is deze software bedoeld  
 Mensen die geïnteresseerd zijn in het lenen van spullen.
-Welk probleem lossen jullie op of welke kans zien jullie  
+
+# Welk probleem lossen jullie op of welke kans zien jullie  
 Het probleem dat hier mee opgelost zou kunnen worden is het feit dat er tegenwoordig niet echt een manier is om spullen te lenen van anderen buiten de mensen die je erg goed kent. Je gaat niet zomaar naar iemand om even te vragen of je zijn/haar stofzuiger kan lenen voor 3 weken. Software ontwikkelingen om spullen te lenen zou dit probleem op kunnen lossen.
 
 ---
