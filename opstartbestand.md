@@ -37,15 +37,15 @@ Deze leerling focust op inhoud en uitwerking.
 # Invullen:
 
 ### Teamleden:
-Naam 1 – Repository host
-Naam 2 – Projectcoördinator
-Naam 3 – Ontwerp & ontwikkeling
+Max – Repository host
+Pepijn – Projectcoördinator
+Olaf – Ontwerp & ontwikkeling
 
-Klas  
+Klas  V6
 
 Datum  
 
----
+06/01/2026
 
 Je gaat kiezen uit één van de casussen die in het lokaal aanwezig zijn. Deze casussen hebben hun voor en nadelen en je beslist als groep waarom je een casus kiest. Je maar een keuze uit 3 casussen.
 
@@ -57,17 +57,22 @@ Kies hieronder 3 casussen die je zou willen maken. Iedere casus kan maar door 1 
 
 ### Eerste keuze
 Korte beschrijving  
+marktplaats MTB oosterhout, online platform maken om makkelijk materiaal en kleding te zoeken
 
 Waarom vinden jullie dit interessant  
+het onderwerp van de opdracht leek ons een leuk idee en denken dat dit wat oplevert voor MTB oosterhout
 
 Voor wie is deze software bedoeld  
+leden van club in oosterhout
 
 Welk probleem lossen jullie op of welke kans zien jullie  
+dat het 
 
 ---
 
 ### Tweede keuze
 Korte beschrijving  
+
 
 Waarom vinden jullie dit interessant  
 
@@ -79,6 +84,7 @@ Welk probleem lossen jullie op of welke kans zien jullie
 
 ### Derde keuze
 Korte beschrijving  
+
 
 Waarom vinden jullie dit interessant  
 
