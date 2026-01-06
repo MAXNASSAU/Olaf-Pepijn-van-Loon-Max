@@ -72,13 +72,16 @@ dat het doorgeven via whatsapp vrij onoverzichtelijk is en wij gaan dat verbeter
 
 ### Tweede keuze
 Korte beschrijving  
-practicumsets arduino, makkelijk systeem maken
+Practicumsets arduino, een overzichtelijk systeem maken om makkelijk voorraad en inhoud van arduino practicumsets aan te passen.
 
 Waarom vinden jullie dit interessant  
+Wij hebben hier zelf ook mee gewerkt op school en was vaak vrij onoverzichtelijk en willen daarom hiet iets voor maken.
 
 Voor wie is deze software bedoeld  
+Leerlingen op school die met deze sets werken.
 
 Welk probleem lossen jullie op of welke kans zien jullie  
+Het probleem dat de inhoud van de sets niet altijd klopt en niet goed kan zien welke er wel en niet zijn, wij willen dit daarom veranderen zodat het makkelijker wordt. 
 
 ---
 
