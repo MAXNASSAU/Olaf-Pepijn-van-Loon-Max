@@ -58,7 +58,7 @@ Kies hieronder 3 casussen die je zou willen maken. Iedere casus kan maar door 1 
 
 ## Eerste keuze
 Korte beschrijving  
-Marktplaats MTB Oosterhout, online platform maken om makkelijk materiaal en kleding te zoeken
+Marktplaats MTB Oosterhout, online platform maken om makkelijk materiaal en kleding te zoeken en te verkopen
 
 ### Waarom vinden jullie dit interessant  
 het onderwerp van de opdracht leek ons een leuk idee en denken dat dit wat oplevert voor MTB oosterhout
@@ -67,7 +67,7 @@ het onderwerp van de opdracht leek ons een leuk idee en denken dat dit wat oplev
 Leden van de club MTB Oosterhout
 
 ### Welk probleem lossen jullie op of welke kans zien jullie  
-Steeds meer leden van MTB Oosterhout verkopen hun oude kleding of materialen binnen de club. Dit gebeurd nu via whatsapp, wat leidt tot onoverzichtelijke invetarisatie van de aangeboden spullen waardoor mensen niet gericht kunnen zoeken naar het gewenste product. Wij willen de manier om kleding en materialen te verkopen makkelijker maken voor de leden van MTB Oosterhout door middel van een platform waar mensen hun kleding en materialen eenvoudig en gerangsschikt kunnen aanbieden.
+#### Steeds meer leden van MTB Oosterhout verkopen hun oude kleding of materialen binnen de club. Dit gebeurd nu via whatsapp, wat leidt tot onoverzichtelijke invetarisatie van de aangeboden spullen waardoor mensen niet gericht kunnen zoeken naar het gewenste product. Wij willen de manier om kleding en materialen te verkopen makkelijker maken voor de leden van MTB Oosterhout door middel van een platform waar mensen hun kleding en materialen eenvoudig en gerangsschikt kunnen aanbieden.
 ---
 
 ### Tweede keuze
@@ -100,72 +100,80 @@ Het probleem dat hier mee opgelost zou kunnen worden is het feit dat er tegenwoo
 
 ---
 
-## 3. Vergelijken en kiezen
 
-Vergelijk de casussen en beantwoord de vragen samen.
+## 3. Aanleiding en doel
 
-Welke casus is kunnen wij eht beste maken en waarom?
+#### Beschrijf de aanleiding van de software, Waarom is deze software nodig of wenselijk?   
 
-Welke casus past het beste in de beschikbare tijd?
+MTB Oosterhout verhandeld nu materialen en kleding via een whatsapp groep. Dit is erg onoverzichtelijk, waardoor het snel een chaos wordt. Wij gaan een online platform bouwen waar leden van MTB Oosterhout hun spullen kunnen aanbieden.
 
-Welke casus motiveert jullie het meest?
+#### Wat is het hoofddoel van de software  
+Leden de mogelijkheid bieden om hun spullen op een makkelijke en efficiënte manier aan te bieden en aan te schaffen via een online platform.
 
----
-
-## 4. Aanleiding en doel
-
-Beschrijf de aanleiding van de software  
-Waarom is deze software nodig of wenselijk  
-
-Wat is het hoofddoel van de software  
-
-Wanneer is dit project voor jullie geslaagd  
+#### Wanneer is dit project voor jullie geslaagd  
+Als we een werkend platform voor de leden kunnen creëren, dan vinden wij de opdracht geslaagd.
 
 ---
 
-## 6. Doelgroep en context
+## 4. Doelgroep en context
 
-Wie gaat de software gebruiken  
+#### Wie gaat de software gebruiken?
+De leden van MTB Oosterhout
 
-In welke situatie wordt de software gebruikt  
+#### In welke situatie wordt de software gebruikt?
+Leden met oude spullen waar ze vanaf willen.
+Leden die voor een schappelijke prijs goede spullen willen.
 
-Wat weet deze doelgroep al en wat niet  
-
----
-
-## 7. Creatieve verkenning
-
-Bedenk vrij, zonder te beoordelen.
-
-Welke functies zou deze software kunnen hebben  
-
-Welke bestaande apps of websites lijken hierop  
-
-Wat zou deze software anders of beter kunnen doen  
+#### Wat weet deze doelgroep al en wat niet?
+De doelgroep weet dat ze iets aan kunnen bieden. Ze weten echter niet hoe ze dit precies kunnen doen, wij gaan ons best doen dit zo makkelijk mogelijk te maken.
 
 ---
 
-## 8. Wat weten we al
+## 5. Creatieve verkenning
 
-Welke informatie hebben we al  
+#### Bedenk vrij, zonder te beoordelen. Welke functies zou deze software kunnen hebben?  
+Spullen toevoegen/aanbieden. Contactgegevens vinden. Spullen vinden. Foto's bekijken van de spullen. 
 
-Welke keuzes lijken nu logisch  
+#### Welke bestaande apps of websites lijken hierop?
+Marktplaats
 
----
-
-## 9. Wat weten we nog niet
-
-Welke informatie missen we nog  
-
-Wat moeten we navragen aan de opdrachtgever  
+#### Wat zou deze software anders of beter kunnen doen?
+Specifieke doelgroep aanspreken, in ons geval de mountainbike vereniging
 
 ---
 
-## 11. Vervolgstappen
+## 6. Wat weten we al
 
-Wat is de eerstvolgende stap na deze les  
+#### Welke informatie hebben we al?
+MTB Oosterhout heeft een website nodig voor hun leden waar zij hun oude spullen aan kunnen bieden. Het moet overzichtelijk zijn, zodat het geen chaos wordt zoals nu in de whatsappgroep.
 
-Wie doet wat  
+#### Welke keuzes lijken nu logisch?
+* Er moeten foto's bij kunnen staan en de geïnteresseerden moeten contactgegevens kunnen vinden.
+---
+
+## 7. Wat weten we nog niet
+
+### Welke informatie missen we nog? Wat moeten we navragen aan de opdrachtgever? 
+Moet de gebruiker zelf het materiaal op de website kunnen zetten of gaat dat via een host?
+
+Zit er al iets van een inlog systeem op de huidige website? Wordt het uiteindelijk onderdeel van de website https://www.mtboosterhout.nl/ of een aparte website? Zo ja, zouden wij iets van een kleurenpalet, font en al bestaande icoontjes kunnen krijgen?
+
+Hoe werkt het prijs systeem? Wordt er geboden, is er een vaste prijs of kiest de verkoper zelf een prijs?
+
+Hoe werkt de distributie van producten? Kan je de producten in een winkelmand opslaan en vervolgens bestellen? Of reserveer je het gewenste product op de website, zodat je die kan ophalen op de club? Of bij de mensen thuis? En waar is de voorraad en hoe werkt verzending?
+
+ 
+
+---
+
+## 8. Vervolgstappen
+
+#### Wat is de eerstvolgende stap na deze les? Wie doet wat? 
+Olaf: Userstories
+Max: Sitemap
+Pepijn: Wireframe
+
+
 
 ---
 
