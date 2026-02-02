@@ -160,9 +160,7 @@ Zit er al iets van een inlog systeem op de huidige website? Wordt het uiteindeli
 
 Hoe werkt het prijs systeem? Wordt er geboden, is er een vaste prijs of kiest de verkoper zelf een prijs?
 
-Hoe werkt de distributie van producten? Kan je de producten in een winkelmand opslaan en vervolgens bestellen? Of reserveer je het gewenste product op de website, zodat je die kan ophalen op de club? Of bij de mensen thuis? En waar is de voorraad en hoe werkt verzending?
-
- 
+Hoe werkt de distributie van producten? Kan je de producten in een winkelmand opslaan en vervolgens bestellen? Of reserveer je het gewenste product op de website, zodat je die kan ophalen op de club? Of bij de mensen thuis? En waar is de voorraad en hoe werkt verzending? 
 
 ---
 
@@ -172,6 +170,35 @@ Hoe werkt de distributie van producten? Kan je de producten in een winkelmand op
 Olaf: Userstories
 Max: Sitemap
 Pepijn: Wireframe
+
+## 9. Wat weten we nog niet
+#### Welke informatie missen we nog? Wat moeten we navragen aan de opdrachtgever. Bereid het interview voor.
+
+1) Moet de gebruiker zelf het materiaal op de website kunnen zetten of gaat dat via een host?
+
+2) Zit er al iets van een inlog systeem op de huidige website? Wordt het uiteindelijk onderdeel van de website https://www.mtboosterhout.nl/ of een aparte website? Zo ja, zouden wij iets van een kleurenpalet, font en al bestaande icoontjes kunnen krijgen?
+
+3) Hoe werkt het prijs systeem? Wordt er geboden, is er een vaste prijs of kiest de verkoper zelf een prijs?
+
+4) Hoe werkt de distributie van producten? Kan je de producten in een winkelmand opslaan en vervolgens bestellen? Of reserveer je het gewenste product op de website, zodat je die kan ophalen op de club? Of bij de mensen thuis? En waar is de voorraad en hoe werkt verzending? 
+---
+
+## 10. Interview met opdrachtgever
+#### Noteer hieronder de antwoorden van de opdrachtgever en de conclusies die je hieruit hebt getrokken.
+
+1) De gebruiker moet zelf spullen op de website kunnen zetten, de host moet wel dingen kunnen verwijderen.
+2) Er is nog geen inlogsysteem, maar die moeten we wel toevoegen. Het wordt een externe site en we hebben het kleurenpalet.
+3) Er wordt bij interesse een prijs afgesproken met de verkoper.
+4) Gebruikers kunnen via contactgegevens met de verkoper iets afspreken.
+
+
+## 11. Vervolgstappen
+### Wat is de eerstvolgende stap na deze les? Omschrijf in minimaal 5 regels, wat jullie nu willen bouwen. Maak een lijst met eisen en wensen.
+
+We hebben nu een beeld van hoe we de website kunnen maken. We gaan nu verder met het opzetten van een ontwerp. We gaan dit ontwerp maken door middel van user stories, wireframes, sitemaps en een keuze in architectuur gebruik. Wanneer dit helemaal rond is gaan wij een figma prototype maken. Dit alles bij elkaar geeft ons een perfect beeld van hoe we de site gaan maken. Wij willen deze week dus de user stories, wireframes, sitemaps en architectuur keuze hebben.
+
+
+---
 
 
 
