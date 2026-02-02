@@ -195,6 +195,11 @@ Pepijn: Wireframe
 ## 11. Vervolgstappen
 ### Wat is de eerstvolgende stap na deze les? Omschrijf in minimaal 5 regels, wat jullie nu willen bouwen. Maak een lijst met eisen en wensen.
 
+1) Wireframes
+2) Sitemap
+3) User stories
+4) architectuur keuze (html/sql etc.)
+
 We hebben nu een beeld van hoe we de website kunnen maken. We gaan nu verder met het opzetten van een ontwerp. We gaan dit ontwerp maken door middel van user stories, wireframes, sitemaps en een keuze in architectuur gebruik. Wanneer dit helemaal rond is gaan wij een figma prototype maken. Dit alles bij elkaar geeft ons een perfect beeld van hoe we de site gaan maken. Wij willen deze week dus de user stories, wireframes, sitemaps en architectuur keuze hebben.
 
 
