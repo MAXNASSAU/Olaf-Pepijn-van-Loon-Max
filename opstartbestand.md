@@ -203,6 +203,8 @@ Pepijn: Wireframe
 
 We hebben nu een beeld van hoe we de website kunnen maken. We gaan nu verder met het opzetten van een ontwerp. We gaan dit ontwerp maken door middel van user stories, wireframes, sitemaps en een keuze in architectuur gebruik. Wanneer dit helemaal rond is gaan wij een figma prototype maken. Dit alles bij elkaar geeft ons een perfect beeld van hoe we de site gaan maken. Wij willen deze week dus de user stories, wireframes, sitemaps en architectuur keuze hebben.
 
+Op de website kom je op een homescherm/profielpagina waar gebruikers hun gegevens kunnen invullen zoals gebruikersnaam en contactgegevens, alles in de website kan alleen gebruikt worden als je ingelogd ben als lid van mtb oosterhout. Vanuit de homepagina kan de gebruiker naar andere tabbladen gaan zoals advertenties zoeken of browsen, er is niet iets van een winkelwagen systeem of iets anders de gebruiker vult een beschrijving in en een paar fotos toe erbij staat de contact gegevens gebruikers spreken onderling wat af met betalen en levering.
+
 
 ---
 
