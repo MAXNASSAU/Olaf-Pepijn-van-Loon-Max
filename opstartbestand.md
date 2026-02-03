@@ -167,9 +167,9 @@ Hoe werkt de distributie van producten? Kan je de producten in een winkelmand op
 ## 8. Vervolgstappen
 
 #### Wat is de eerstvolgende stap na deze les? Wie doet wat? 
-Olaf: Userstories
+Olaf: Userstories, wireframe
 Max: Sitemap
-Pepijn: Wireframe
+Pepijn: architectuur
 
 ## 9. Wat weten we nog niet
 #### Welke informatie missen we nog? Wat moeten we navragen aan de opdrachtgever. Bereid het interview voor.
