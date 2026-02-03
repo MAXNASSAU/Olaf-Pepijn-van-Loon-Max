@@ -38,7 +38,9 @@ Deze leerling focust op inhoud en uitwerking.
 
 ### Teamleden:
 Max – Repository host
+
 Pepijn – Projectcoördinator
+
 Olaf – Ontwerp & ontwikkeling
 
 Klas  V6
@@ -168,7 +170,9 @@ Hoe werkt de distributie van producten? Kan je de producten in een winkelmand op
 
 #### Wat is de eerstvolgende stap na deze les? Wie doet wat? 
 Olaf: Userstories, wireframe
+
 Max: Sitemap
+
 Pepijn: architectuur
 
 ## 9. Wat weten we nog niet
