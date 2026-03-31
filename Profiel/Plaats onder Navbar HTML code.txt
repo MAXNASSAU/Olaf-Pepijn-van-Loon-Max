@@ -1,0 +1,11 @@
+<div class="profile-menu">
+    <img src="profiel.jpg" alt="Profiel" id="profileBtn">
+
+    <div class="dropdown" id="dropdownMenu">
+        <a href="#">👤 Profiel</a>
+        <a href="#">⭐ Favorieten</a>
+        <a href="#">⚙️ Instellingen</a>
+        <hr>
+        <a href="#">🚪 Uitloggen</a>
+    </div>
+</div>

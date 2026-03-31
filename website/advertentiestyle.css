@@ -1,0 +1,54 @@
+main {
+	background-image: linear-gradient(180deg,#002649 0vh,#d2441e 100vh);
+	min-height: 100vh;
+}
+
+main p {	
+	padding-top: 100px;
+	padding-left: 20%;
+	color: white;
+	font-family: "Squada One";
+	font-size: 60px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+
+main li {
+	list-style: none;
+}
+
+main input{
+	margin-left: 20%;
+	font-size: 15px;
+	margin-top: 20px;
+	padding: 5px;
+	font-family: "Open Sans";
+}
+
+main textarea {
+	margin-left: 20%;
+	font-size: 15px;
+	margin-top: 20px;
+	padding: 5px;
+	font-family: "Open Sans";
+}
+
+#beschrijving {
+	width: 30%;
+}
+
+main button {
+	background-color: #fa4616;
+	color: white;
+	font-family: "Squada One";
+	font-size: 30px;
+	text-transform: uppercase;
+	text-decoration: none;
+	padding: 10px 30px 10px 30px;
+	margin-left: 20%;
+	border: 0;
+}
+
+main button hover{
+	cursor: pointer;
+}

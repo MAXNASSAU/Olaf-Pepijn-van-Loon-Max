@@ -1,0 +1,85 @@
+main {
+	background-image: linear-gradient(180deg,#002649 0vh,#d2441e 100vh);
+	min-height: 100vh;
+}
+
+main p {	
+	padding-top: 100px;
+	padding-left: 20%;
+	color: white;
+	font-family: "Squada One";
+	font-size: 60px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	width: 50%;
+}
+
+main a {
+	background-color: #fa4616;
+	color: white;
+	font-family: "Squada One";
+	font-size: 30px;
+	text-transform: uppercase;
+	text-decoration: none;
+	padding: 10px 30px 10px 30px;
+	margin: 20%;
+	line-height: 200px;
+}
+
+main img{
+	width: 100%;
+}
+
+main .grid {
+	flex-wrap: wrap;
+	display: flex;
+	justify-content: flex-start;
+}
+
+main .card {
+	font-family: sans-serif;
+	margin: 20px;
+	background-color: white;
+	min-width: 20%;
+	max-width: 20%;
+	min-height: 20vh;
+	padding: 20px;
+	border-radius: 25px;
+	border: 2px blue;
+	
+}
+
+main h1{
+	font-size: 25px;
+	color: black;
+	font-family: "Open sans";
+	border-bottom: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #fa4616 ;
+	line-height: 50px;
+}
+
+main h2{
+	font-size: 20px;
+	color: black;
+	font-family: "Open sans";
+	border-bottom: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #fa4616;
+	}
+
+main h3{
+	font-size: 15px;
+	color: black;
+	font-family: "Open sans";
+	border-bottom: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #fa4616;
+	line-height: 30px;
+}
+
+main h4{
+	font-size: 10px;
+	color: black;
+	font-family: "Open sans";
+}

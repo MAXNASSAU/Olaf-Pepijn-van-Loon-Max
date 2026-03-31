@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="nl">
+	<head>
+		<meta charset="UTF-8">
+		<title>Inloggen | MTB Oosterhout</title>
+		<link href='https://fonts.googleapis.com/css?family=Squada+One' rel='stylesheet'>
+		<link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+		<link rel="stylesheet" href="Loginpagina.css">
+		<link rel="stylesheet" href="header.css">
+	</head>
+	<body>
+		<header>
+			<div id="logo">
+				<a href="index.html"><img src="Logo MTB-Oosterhout eind.png"><a>
+			</div>
+			<div id="header_content" class="nav">
+				<ul class="items">
+					<li><a href="https://www.mtboosterhout.nl/">home</a></li>
+					<li><p>rondkijken</p></li>
+					<li><p>advertentie maken</p></li>
+					<li><a href="https://www.mtboosterhout.nl/contact/"> contact</a></li>
+				</ul>
+			</div>
+		</header>
+		<main>
+			<p>Inloggen</p>
+			<a href="accountaanmaken.html" id="login">Nog geen account? maak een account aan</a><br>
+			<form action="inloggen.php" method="POST">
+				<input id="naam" type="text" name="naam" placeholder="Gebrukersnaam" required><br>
+				<input id="wachtwoord" type="password" name="wachtwoord" placeholder="wachtwoord" required><br>
+				<button type="submit" value="Submit">login</button>
+			</form>
+		</main>
+	</body>
+</html>

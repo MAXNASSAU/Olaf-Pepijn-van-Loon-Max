@@ -1,0 +1,51 @@
+main {
+	background-image: linear-gradient(180deg,#002649 0vh,#d2441e 100vh);
+	min-height: 100vh;
+}
+
+main p {	
+	padding-top: 100px;
+	padding-left: 20%;
+	color: white;
+	font-family: "Squada One";
+	font-size: 60px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	width: 50%;
+}
+
+main a {
+	background-color: #fa4616;
+	color: white;
+	font-family: "Squada One";
+	font-size: 30px;
+	text-transform: uppercase;
+	text-decoration: none;
+	padding: 10px 30px 10px 30px;
+	margin: 20%;
+	line-height: 70px;
+}
+
+main button {
+	background-color: #fa4616;
+	color: white;
+	font-family: "Squada One";
+	font-size: 30px;
+	text-transform: uppercase;
+	text-decoration: none;
+	padding: 10px 30px 10px 30px;
+	margin-left: 20%;
+	border: 0;
+}
+
+#login {
+	line-height: 50px;
+	font-size: 20px;
+	padding: 5px 15px 5px 15px;
+}
+
+main input {
+	margin: 10px 0px 10px 20%;
+	line-height: 30px;
+}
+

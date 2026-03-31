@@ -1,0 +1,60 @@
+<?php
+session_start();
+
+if (!isset($_SESSION['naam'])) {
+    header("Location: index.html");
+    exit();
+}
+?>
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <title>Goederen - MTB Oosterhout</title>
+    <meta charset="UTF-8">
+    <link href='https://fonts.googleapis.com/css?family=Squada One' rel='stylesheet'>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="header.css">
+    <link rel="stylesheet" href="homepaginastyle.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+<body>
+
+<header>
+    <div id="logo">
+        <a href="startpagina.php">
+            <img src="Logo MTB-Oosterhout eind.png">
+        </a>
+    </div>
+
+    <div id="header_content" class="nav">
+        <ul class="items">
+            <li><a href="https://www.mtboosterhout.nl/">home</a></li>
+            <li><a href="rondkijken.php">rondkijken</a></li>
+            <li><a href="advertentie.php">advertentie maken</a></li>
+            <li><a href="https://www.mtboosterhout.nl/contact/">contact</a></li>
+            <li>
+                <div class="dropdown">
+                    <a class="dropbtn"><?php echo $_SESSION['naam']; ?></a>
+                    <div class="dropdown-content">
+                        <a href=""><?php echo $_SESSION['naam']; ?></a>
+                        <a href="uitloggen.php">uitloggen</a>
+                    </div>
+                </div>
+            </li>
+        </ul>
+    </div>
+</header>    
+
+<main>
+    <p>
+        Welkom bij MTB Oosterhout marktplaats, 
+        <strong><?php echo $_SESSION['naam']; ?></strong>! 
+        <br><br>
+        Ontdek ons aanbod:
+    </p>
+
+    <a href="rondkijken.html">aanbod</a>
+</main>
+
+</body>
+</html>
